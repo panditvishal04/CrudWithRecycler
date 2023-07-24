@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrudWithRecycler</string>
+    <string name="name_colon">Name  </string>
+    <string name="id_colon">Id  </string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
